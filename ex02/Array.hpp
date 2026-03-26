@@ -79,5 +79,4 @@ const char *Array<T>::OutOfIndexException::what() const throw()
     return ("Error: Out of index");
 }
 
-
 #endif
