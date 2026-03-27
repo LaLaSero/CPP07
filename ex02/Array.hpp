@@ -4,6 +4,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <typeinfo>
+#include <exception>
 
 template< typename T>
 
